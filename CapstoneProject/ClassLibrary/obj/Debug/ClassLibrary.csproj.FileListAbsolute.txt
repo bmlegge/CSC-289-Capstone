@@ -1,0 +1,12 @@
+C:\Users\Brandon\source\repos\CapstoneProject\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Brandon\source\repos\CapstoneProject\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Brandon\source\repos\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Brandon\source\repos\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.pdb
+G:\Ftcc\Spring20\CSC-289\CapstoneProject\ClassLibrary\bin\Debug\ClassLibrary.dll
+G:\Ftcc\Spring20\CSC-289\CapstoneProject\ClassLibrary\bin\Debug\ClassLibrary.pdb
+G:\Ftcc\Spring20\CSC-289\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+G:\Ftcc\Spring20\CSC-289\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+G:\Ftcc\Spring20\CSC-289\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.dll
+G:\Ftcc\Spring20\CSC-289\CapstoneProject\ClassLibrary\obj\Debug\ClassLibrary.pdb
